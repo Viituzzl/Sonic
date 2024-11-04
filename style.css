@@ -5,3 +5,11 @@ body{
     font-family: "Stylish", serif;
     margin-bottom: 100px;
 }
+
+.chamada{
+    background: rgb(69, 69, 202);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
