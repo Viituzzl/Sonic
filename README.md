@@ -1,3 +1,3 @@
-# Sonic
+.# Sonic
 
 https://viituzzl.github.io/Sonic/
