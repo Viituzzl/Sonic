@@ -37,9 +37,9 @@ h1{
 }
 .categoria-videos img{
     height: 200px;
-    opacity: 0.5:
+    opacity: 0.5;
 }
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 3px solid darkblue
+    border: 3px solid darkblue;
 }
